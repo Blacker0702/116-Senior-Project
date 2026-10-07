@@ -150,4 +150,3 @@ curl -X POST http://localhost:2953/tts \
 ## License
 
 （依你的專案需求填寫,例如 MIT License）
->>>>>>> a654ac1 (C)
